@@ -68,7 +68,8 @@ public class Implementation {
             data = newArray;
         }
     }
-
+    
+    // Shrink method
     public void shrink(){
         // Algorithm:
         // 1. Check that the size is less than the length of data
